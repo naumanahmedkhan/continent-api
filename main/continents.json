@@ -1,0 +1,67 @@
+{
+    "continents": [
+        {
+            "continentName": "Asia",
+            "countries": [
+                {
+                    "country": "India",
+                    "cities": [
+                        "Mumbai",
+                        "Delhi"
+                    ]
+                },
+                {
+                    "country": "Pakistan",
+                    "cities": [
+                        "Lahore",
+                        "Karachi"
+                    ]
+                    
+                } 
+            ]
+        },
+        {
+            "continentName": "Europe",
+            "countries": [
+                {
+                    "country": "Finland",
+                    "cities": [
+                        "Tampere",
+                        "Turku",
+                        "Helsinki"
+                    ]
+                },
+                {
+                    "country": "Sweden",
+                    "cities": [
+                        "Stockholm",
+                        "Malmo"
+                    ]
+                }
+            ]
+        },
+        {
+            "continentName": "Africa",
+            "countries": [
+                {
+                    "country": "Algeria"
+                },
+                {
+                    "country": "Angola"
+                }
+            ]
+        },
+        {
+            "continentName": "Oceania",
+            "countries": [
+                {
+                    "country": "Australia",
+                    "cities": [
+                        "Sydney",
+                        "Perth"
+                    ]
+                }
+            ]
+        }
+    ]
+}

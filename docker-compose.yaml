@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+        test:
+                image: gonomi
+                build: .
+                ports:
+                        - "5050:5050"
+                network_mode: host
